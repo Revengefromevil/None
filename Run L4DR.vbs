@@ -1,0 +1,1 @@
+x=msgbox("Why Are you Running this?", 1+48, "Left 4 Dead Remastered Launcher")
